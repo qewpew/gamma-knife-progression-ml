@@ -1,0 +1,14 @@
+# Данные конкурса (медицинские перс. данные — не публикуются)
+gamma-knife-3/
+*.zip
+*.csv
+
+# Артефакты прогона
+*.png
+submission_*.csv
+
+# Бэкапы / служебное
+*.backup.ipynb
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
